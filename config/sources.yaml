@@ -1,0 +1,290 @@
+sources:
+
+  - name: AeroTime Hub
+    type: website
+    website: https://www.aerotime.aero/
+    rss: https://www.aerotime.aero/rss
+
+  - name: African Business Travel News
+    type: website
+    website: https://africanbusinesstravel.com.ng/
+    rss: null
+
+  - name: AIAA
+    type: website
+    website: https://www.aiaa.org/news/industry-news
+    rss: null
+
+  - name: Airline Economics
+    type: social
+    website: https://www.aviationnews-online.com/
+    rss: null
+    platforms:
+      - x
+      - linkedin
+      - instagram
+
+  - name: Airline Weekly
+    type: website
+    website: https://airlineweekly.skift.com/
+    rss: null
+
+  - name: Airways Magazine
+    type: website
+    website: https://www.airwaysmag.com/latest-news
+    rss: https://www.airwaysmag.com/feed/
+
+  - name: Asian Aviation
+    type: website
+    website: https://asianaviation.com/
+    rss: null
+
+  - name: Australian Aviation
+    type: website
+    website: https://australianaviation.com.au/
+    rss: null
+
+  - name: Aviation Business Journal
+    type: website
+    website: https://aviationbusinessjournal.aero/news/
+    rss: null
+
+  - name: Aviation Business Middle East
+    type: website
+    website: https://www.aviationbusinessme.com/
+    rss: null
+
+  - name: AVweb
+    type: website
+    website: https://www.avweb.com/
+    rss: https://www.avweb.com/feed/
+
+  - name: BizAv India
+    type: website
+    website: https://www.sps-aviation.com/bizavindiasupplement/news/
+    rss: null
+
+  - name: Business Today – Aviation
+    type: website
+    website: https://www.businesstoday.in/industry/aviation
+    rss: null
+
+  - name: The Aviationist
+    type: website
+    website: https://theaviationist.com/
+    rss: https://theaviationist.com/feed/
+
+  - name: Avionics International
+    type: website
+    website: https://www.aviationtoday.com/
+    rss: null
+
+  - name: AviTrader
+    type: website
+    website: https://avitrader.com
+    rss: null
+
+  - name: Aviation International News
+    type: website
+    website: https://www.ainonline.com/
+    rss: https://www.ainonline.com/rss.xml
+
+  - name: Aviation Week Network
+    type: website
+    website: https://aviationweek.com/
+    rss: https://aviationweek.com/rss.xml
+
+  - name: Aviation World Magazine
+    type: website
+    website: https://aviationworld.in/
+    rss: null
+
+  - name: ITLN Aviation
+    type: website
+    website: https://www.itln.in/aviation
+    rss: null
+
+  - name: Aviation Update India
+    type: website
+    website: https://www.aviationupdatemag.in/
+    rss: null
+
+  - name: Business Airport International
+    type: website
+    website: https://www.businessairportinternational.com/
+    rss: null
+
+  - name: Aviation Today India
+    type: website
+    website: https://aviationtoday.in/
+    rss: null
+
+  - name: The Hindu BusinessLine – Aviation
+    type: website
+    website: https://www.thehindubusinessline.com/topic/airlines-and-aviation/
+    rss: null
+
+  - name: Moneycontrol – Aviation
+    type: website
+    website: https://www.moneycontrol.com/news/tags/aviation.html
+    rss: null
+
+  - name: Indian Express – Aviation
+    type: website
+    website: https://indianexpress.com/section/business/aviation/
+    rss: null
+
+  - name: Aviation Business News
+    type: website
+    website: https://www.aviationbusinessnews.com/
+    rss: null
+
+  - name: Flying Magazine
+    type: website
+    website: https://www.flyingmag.com/business/
+    rss: https://www.flyingmag.com/feed/
+
+  - name: Business Travel News
+    type: website
+    website: https://www.businesstravelnews.com/
+    rss: null
+
+  # - name: CAPA – Centre for Aviation
+  #   type: website
+  #   website: https://centreforaviation.com/news
+  #   rss: null
+
+  - name: Corporate Jet Investor
+    type: website
+    website: https://www.corporatejetinvestor.com/
+    rss: null
+
+  - name: FlightGlobal
+    type: website
+    website: https://www.flightglobal.com/news
+    rss: https://www.flightglobal.com/rss
+
+  - name: MRO Business Today
+    type: website
+    website: https://www.mrobusinesstoday.com/
+    rss: null
+
+  - name: NBAA
+    type: website
+    website: https://nbaa.org/news/
+    rss: null
+
+  - name: Skies Magazine
+    type: website
+    website: https://skiesmag.com/news/
+    rss: null
+
+  - name: World of Aviation
+    type: website
+    website: https://worldofaviation.com/
+    rss: null
+
+  - name: Times Aerospace
+    type: website
+    website: https://www.timesaerospace.aero/
+    rss: null
+
+  - name: Wings Magazine
+    type: website
+    website: https://www.wingsmagazine.com/category/news/
+    rss: null
+
+  - name: World Airnews
+    type: website
+    website: https://worldairnews.co.za/
+    rss: null
+
+  - name: Skift
+    type: website
+    website: https://skift.com/
+    rss: https://skift.com/feed/
+
+  - name: AirlineGeeks
+    type: website
+    website: https://airlinegeeks.com/
+    rss: https://airlinegeeks.com/feed/
+
+  - name: General Aviation News
+    type: website
+    website: https://generalaviationnews.com/
+    rss: https://generalaviationnews.com/feed/
+
+  - name: Key Aero
+    type: website
+    website: https://www.key.aero/aviationnews
+    rss: null
+
+  - name: The National – Aviation
+    type: website
+    website: https://www.thenationalnews.com/business/aviation/
+    rss: null
+
+  - name: LiveMint – Aviation
+    type: website
+    website: https://www.livemint.com/topic/aviation
+    rss: null
+
+  - name: SP's AirBuz
+    type: website
+    website: https://www.spsairbuz.com/
+    rss: null
+
+  - name: IH Aviation and Travel
+    type: website
+    website: https://ihaviationandtravel.com/
+    rss: null
+
+  - name: Aviation India
+    type: website
+    website: https://www.aviationindia.net/
+    rss: null
+
+  - name: Digital Creed – Aviation
+    type: website
+    website: https://www.digitalcreed.in/industries-tech/aviation/
+    rss: null
+
+  - name: 100 Knots
+    type: website
+    website: https://www.100knots.com/news/
+    rss: null
+
+  - name: The Aviation (India)
+    type: website
+    website: https://theaviation.in/
+    rss: null
+
+  - name: OFLY
+    type: website
+    website: https://www.ofly.in/blog
+    rss: null
+
+  - name: Aviation Pros
+    type: website
+    website: https://www.aviationpros.com/
+    rss: null
+
+  - name: Aviation A2Z
+    type: website
+    website: https://aviationa2z.com/
+    rss: null
+
+  - name: Simple Flying
+    type: website
+    website: https://simpleflying.com/
+    rss: https://simpleflying.com/feed/
+
+  - name: AVSN
+    type: website
+    website: https://aviationsourcenews.com/
+    rss: null
+
+  - name: CH-Aviation
+    type: website
+    website: https://www.ch-aviation.com/
+    rss: null
