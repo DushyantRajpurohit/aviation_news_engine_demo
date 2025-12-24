@@ -1,2 +1,2 @@
 # aviation_news_engine_demo
-An engine whihc extracts avaitionn related news from webistes .
+An engine which extracts avaition related news from webistes and puts it in a databse.
